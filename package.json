@@ -1,0 +1,23 @@
+{
+  "name": "web_security_implementation",
+  "version": "1.0.0",
+  "description": "learn the fundamental principles of computer and network security by studying attacks on computer systems, networks, and the Web. Students will learn how those attacks work and how to prevent and detect them.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MIHIRI099/Web_security_implementation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MIHIRI099/Web_security_implementation/issues"
+  },
+  "homepage": "https://github.com/MIHIRI099/Web_security_implementation#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
